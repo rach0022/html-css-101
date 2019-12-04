@@ -7,7 +7,7 @@
     * how to generate basic html
     * how to change the page title
 
-![alt preview of website](Capture.png)
+![alt preview of website](/Capture.png)
 
 Javascript snippet
 ``` javascript
